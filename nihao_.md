@@ -1,18 +1,13 @@
-
-1. 大道具卡
-2. 打底裤就爱看
-3. 大肯德基阿基
-
-
-1. [x] dakdjaj
-2. [ ] djakdjakdjakdja
-3. [ ] dada
-
-- [x] Markdown
-- [ ] JavaScript
-
-+ [x] Markdown
-+ [ ] JavaScript
-
-+ [ ] Markdown
-+ [ ] JavaScript
+`javascript:`
+```javascript{.line-numbers,highlight=[1,3,5,6,7,9,10]}
+console.log('hello wrold');
+console.log('hello wrold');
+console.log('hello wrold');
+console.log('hello wrold');
+console.log('hello wrold');
+console.log('hello wrold');
+console.log('hello wrold');
+console.log('hello wrold');
+console.log('hello wrold');
+console.log('dajkdjakdja');
+```
