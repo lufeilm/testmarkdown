@@ -1,15 +1,23 @@
-*斜体*
+content [^nihao]
   
-**粗体**
   
-***粗斜体***
+dadjak
+
+```
+SyntaxError: Unexpected token å¼€ in JSON at position 5
+```  
+
   
-<mark>高光</mark>
+this is [a link][baidu]
   
-<ins>添加</ins>
+<img src = './lala.png'  width="10%"></img>
   
-<del>删除</del>
+[github](http://github.com )
   
-H<sup>上标</sup>O
+[baidu]: http://www.baidu.com
   
-H<sub>下标</sub>O
+[^nihao]: www.baidu.com
+  
+Content [^1]
+  
+[^1]: dkajdkajdkakdad
