@@ -1,8 +1,6 @@
 
-<center style="font-size: 2.25em;font-weight: 600;color: #bbbbbb;">GFM格式参考</center>
-  
----
-  
+<center>居中渲染</center>
+
 ##  列表
   
 1. 大大大大
